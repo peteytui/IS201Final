@@ -1,0 +1,81 @@
+h2 {
+    text-align: center;
+    color: darkred;
+    padding: 10px;
+    border: 5px solid rgb(57, 56, 56);
+    margin: 20px;
+ }
+ 
+ #top{
+     color:darkred;
+ }
+ 
+ .excitedText{
+     color:darkred;
+     font-weight: bold;
+     text-decoration: underline;
+ }
+ 
+ body{
+    background-color: rgb(178,224,253);
+ }
+ 
+ li{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 20px;
+     color: darkred; 
+ }
+ 
+ .common{
+     border: 2px solid rgb(57, 56, 56);
+     position: absolute;
+     background-color: rgb(178,224,253);
+ }
+ 
+ .header{
+     top:5px;
+     left:5px;
+     right:5px;
+     height:100px;
+     background-color: rgb(178,224,253);
+ }
+ 
+ .leftmenu{
+     top:114px;
+     left:5px;
+     width:350px;
+     bottom:0px;
+     padding-left: 50px;
+     padding-top: 10px;
+     background-color: rgb(178,224,253);
+ }
+ 
+ .mainbody{
+     top:114px;
+     bottom: 0px;
+     left:414px;
+     right:5px;
+ }
+ 
+ .footer{
+     bottom: 5px;
+     left: 5px;
+     right: 5px;
+     height:20px;
+     position: fixed;
+     text-align:center;
+     background-color: rgb(178,224,253);
+ }
+
+ .video{
+    size: 50%;
+ }
+
+ .chart{
+    top:800px;
+    left: 200px;
+ }
+
+ .pic{
+    size: 150%;
+ }
